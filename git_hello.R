@@ -1,4 +1,5 @@
-library("usethis")
 
-hello <- c("Hello")
+hellowwww <- c("Hello, my name is poopyhead dude")
+
+
 
